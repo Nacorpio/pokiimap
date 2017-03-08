@@ -1,6 +1,9 @@
 Download
 ===============
 
+**Pokiimap is not working right now, stay tuned for more updates.**
+
+
 PokiiMap is available in "full" and "human" versions. 
 
 ANY 3rd party tools have a chance of being detected, use them at your own risk. The 'human' version is safer because it does not use the primary account for anything but Pokiibank. Only scan accounts are used for scanning. 
