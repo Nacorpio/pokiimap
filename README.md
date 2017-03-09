@@ -4,7 +4,7 @@ If you just want to use it, get it here
 ###[Documentations Site](http://pokiimap.readthedocs.io/)
 
 # PokiiMap by KiiDev
-Po**kii**Map is basically PokeVision on Android, an app to help you san for pokemons in a map, because it's really important to catch'em all!
+Po**kii**Map is basically PokeVision on Android, an app to help you scan for pokemons in a map, because it's really important to catch'em all!
 
 ####Do NOT use the same account on your phone at the same time, it will look like you are at 2 locations at the same time which is an obvious signal of cheating
 
